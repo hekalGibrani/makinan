@@ -16,7 +16,7 @@
 		<title>Makinan Piesusu</title>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="author" content="MAKINAN Piesusu">
+		<meta name="author" content="MAKINAN - PIE SUSU">
 		<meta name="keywords" content="Pie susu " />
 
 		<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
